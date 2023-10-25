@@ -1,0 +1,29 @@
+/* LoginSuccess.css */
+
+.login-success-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #2ec642;
+}
+
+.login-success-content {
+    background-color: #7face8;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(233, 79, 79, 0.2);
+    text-align: center;
+}
+
+.login-success-content h1 {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.login-success-content p {
+    font-size: 18px;
+    color: #57ed77;
+}
+  
